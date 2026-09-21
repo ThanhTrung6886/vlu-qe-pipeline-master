@@ -1,6 +1,6 @@
 function login(username, password) {
     // Update login for VLU Lab 01
-if (username === "admin" && password === "123")
+if (username === "admin" && password === "123") {
         return true;
     }
 
